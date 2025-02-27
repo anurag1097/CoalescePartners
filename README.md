@@ -1,6 +1,6 @@
 # CoalescePartners
 
-**CoalescePartners** is a Python-based project designed to fetch and process market data from various financial APIs. It integrates with services like Alpha Vantage, CoinAPI, and Birdeye to retrieve financial and cryptocurrency data, facilitating analysis and decision-making processes.
+This is a Python-based project designed to fetch and process market data from various financial APIs. It integrates with services like Alpha Vantage, CoinAPI, and Birdeye to retrieve financial and cryptocurrency data, facilitating analysis and decision-making processes.
 
 ## Approach
 
@@ -51,6 +51,7 @@ pip install -r requirements.txt
      ```
      ALPHA_VANTAGE_KEY=your_alpha_vantage_api_key
      COINAPI_KEY=your_coinapi_api_key
+     COINAPI_NAAS_KEY=your_coinapi_naas_api_key
      BIRDEYE_KEY=your_birdeye_api_key
      ```
 
